@@ -1,0 +1,16 @@
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Package development
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
